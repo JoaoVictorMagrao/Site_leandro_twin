@@ -1,0 +1,264 @@
+.navbar-nav{
+ 
+  margin-left: 30%;
+  font-size: 20px;
+  
+  
+    
+  }
+  .navbar-brand{
+    margin-left: 15%;
+    
+  }
+  .nav-link{
+    margin-left: 25px;
+    color: white !important;
+  }
+  #logo{
+    width: 300px;
+  }
+  .navbar-light{
+    background-color: rgb(0, 0, 0) !important;
+  }
+  .conteudo_sobre_mim{
+    width: 80%;
+    margin: 0 auto;
+  }
+  .assessor{
+    color: rgb(221, 0, 0);
+  }
+  #twin_foto{
+    height: 400px;
+    width: auto;
+    margin-top: 100px;
+  }
+  .main_sobre{
+    display: flex;
+  }
+  .Sobre_twin{
+    margin-left: 35px;
+    margin-top: 100px;
+    color: white ;
+    font-size: 18px;
+  }
+  .conteudo_contato{
+    width: 80%;
+    margin: 0 auto;
+  
+  }
+  .form-row{
+    display: flex;
+  
+  }
+  /*
+  #control-margin{
+    margin-left: 25px;
+  }*/
+  p{
+    text-align: justify;
+  }
+  
+  .carousel{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+  .control-titulo-resultado{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 65px;
+  }
+  .conteudo_preco{
+    width: 100%;
+    height: 900px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -10px !important;
+  }
+  .conteudo_preco{
+    background-image: url(img/home_planos_background.jpg);
+      background-attachment: fixed;
+      background-size: cover;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      z-index: 99;
+      position: relative;
+      height:1000px;
+  
+  }
+  .tabela-preco-1{
+    height: 750px;
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+   
+  }
+  .tabela-preco-2{
+    height: 750px;
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 40px;
+  }
+  .tabela-preco-3{
+    height: 750px;
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 40px;
+  }
+  .main-tabela-preco{
+    margin-top: 30px !important;
+    display: flex;
+  justify-content: center;
+    margin: 0 auto;
+    width: 90%;
+  }
+  .control-assessoria{
+    margin-top: 30px;
+    
+  }
+  .control-conteudo-assessoria{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 20px;
+  }
+ .largura-select{
+    width: 250px;
+    border-radius: 5px;
+  }
+  .span-valor{
+    font-size: 40px;
+  }
+  .btn-comprar{
+    width: 100%;
+    height: 65px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+  }
+
+  .btn-comprar:hover{
+    background-color: rgb(240, 240, 240);
+  }
+
+  .control-contato{
+    margin-top: 60px !important;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'initial';
+  }
+.navbar{
+  width: 100% !important;
+  z-index: 9999;
+}
+  
+.texto_img{
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 150px;
+  color: white;
+  font-size: 40px;
+}
+.font-span{
+  font-size: 50px;
+}
+.fundo_sub-titulo{
+  background-color: black;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.fundo-alunos{
+  background-image: url(img/home_depoimentos_background.jpg);
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    z-index: 99;
+    position: relative;
+}
+.fundo_sobre-mim{
+  height: 600px;
+  background-color: rgb(44, 44, 44);
+}
+
+#btn-conhecer-todos{
+ height: 45px;
+ width: 150px;
+ border-radius: 5px;
+ font-weight: bold;
+ border-color: black;
+ margin-top: 40px;
+}
+#btn-conhecer-todos:hover{
+  background-color: rgb(221, 221, 221);
+}
+
+#titulo_preco{
+  background-color: rgb(44, 44, 44);
+  height: 150px;
+  text-align: center;
+}
+
+.resultado_alunos{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.resultado_alunos-conhecer-todos{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+#btn-sumir-todos{
+height: 45px;
+width: 150px;
+border-radius: 5px;
+font-weight: bold;
+border-color: black;
+margin-top: 40px;
+}
+.background-assessoria{
+  margin-top: -20px;
+}
+
+.titulo-preco{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20px;
+  background-color: rgb(44, 44, 44);
+  height: 120px;
+  color: white; 
+  font-size: 30px;
+}
+.footer{
+  background-color: black;
+  height: 250px;
+  color: white;
+justify-content: center;
+display: flex;
+}
+
+
+.main-footer{
+ align-items: center;
+  display: flex;
+}
+.contatos-footer{
+  margin-left: 80px;
+}
+.tamanho-icone{
+  width: 40px;
+  height: auto;
+  margin-left: 15px;
+}
+
+.redes-sociais{
+  width: 300px;
+  margin-left: 20px;
+  text-align: center;
+ 
+}
+.center-redes{
+  margin: 0 auto;
+}
